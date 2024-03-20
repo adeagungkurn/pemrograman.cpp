@@ -1,2 +1,1 @@
-# pemrograman.cpp
-Ini merupakan repository materi pembelajaran C++, silahkan mahasiswa UMMUBA untuk akses dan pembelajaran mandiri dari materi yang telah diajarkan
+Selamat datang di repository materi pembelajaran C++, silahkan mahasiswa UMMUBA untuk dapat mengakses materi pembelajaran secara mandiri. 
